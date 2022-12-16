@@ -1,0 +1,20 @@
+.app {
+  display: block;
+  padding: 20px;
+}
+
+.query {
+  display: block;
+  margin: 1em 0;
+}
+
+.input {
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 30px;
+  width: min(33em, 100%);
+}
+
+.pre {
+  display: block;
+}
